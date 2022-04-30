@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_payments_to_pfron" path="Topics/c_PFRON.html"/>
+   <appContext helpID="c_obligatory_paymenrs_why_do_companies_have_to_pay"
+               path="Topics/c_compulsory_contributions.html"/>
+   <appContext helpID="c_people_with_disabilities_on_the_labour_market"
+               path="Topics/c_people_with_disabilities_on_the_labour_market.html"/>
+   <appContext helpID="c_low_employment_rate_reasons"
+               path="Topics/c_low_employment_rate.html"/>
+   <appContext helpID="c_disability_assessment_in_poland"
+               path="Topics/c_disability_assessment_in_poland.html"/>
+   <appContext helpID="c_specific_medical_conditions"
+               path="Topics/c_specific_medical_conditions.html"/>
+   <appContext helpID="c_what_can_be_done_to_reduce_payments"
+               path="Topics/c_Multiple_deduction.html"/>
+   <appContext helpID="c_funding_from_pfron_vs_multiple_deductions"
+               path="Topics/c_Cost_optimization.html"/>
+   <appContext helpID="c_financial_benefits" path="Topics/c_financial_benefits.html"/>
+   <appContext helpID="c_procedure_of_hiring_a_person_with_disability"
+               path="Topics/c_employment_process.html"/>
+   <appContext helpID="c_what_work_can_people_with_disabilities_undartake"
+               path="Topics/c_employment_options.html"/>
+   <appContext helpID="c_teleworking" path="Topics/c_teleworking.html"/>
+   <appContext helpID="c_how_to_find_an_employee_with_a_disability"
+               path="Topics/c_Find_employee.html"/>
+   <appContext helpID="c_job_advertisement" path="Topics/c_job_advertisement.html"/>
+   <appContext helpID="c_corporate_social_responsibility"
+               path="Topics/c_disability_inclusion.html"/>
+</map>
